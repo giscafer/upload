@@ -14,7 +14,6 @@
 ### 后续思考题：
 
 1. requestIdleCallback兼容性，如何⾃⼰实现⼀个
-web全栈架构师
   - 1. react也是⾃⼰写的调度逻辑，以后有机会写个⽂
   章介绍
   - 2. React⾃⼰实现的[requestIdleCallback](https://github.com/facebook/react/blob/master/packages/scheduler/src/forks/SchedulerHostConfig.default.js)
