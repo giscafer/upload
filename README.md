@@ -17,7 +17,7 @@
 web全栈架构师
   - 1. react也是⾃⼰写的调度逻辑，以后有机会写个⽂
   章介绍
-  - 2. React⾃⼰实现的requestIdleCallback
+  - 2. React⾃⼰实现的[requestIdleCallback](https://github.com/facebook/react/blob/master/packages/scheduler/src/forks/SchedulerHostConfig.default.js)
 2. 并发+慢启动配合
 3. 抽样hash+全量哈希+时间切⽚配合
 4. ⼤⽂件切⽚下载
